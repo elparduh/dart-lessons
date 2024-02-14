@@ -1,5 +1,5 @@
-import 'package:dart_fundamentals/dart_fundamentals.dart' as dart_fundamentals;
+import 'package:dart_fundamentals/hello_world.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${dart_fundamentals.calculate()}!');
+void main() {
+  print(helloWorld());
 }

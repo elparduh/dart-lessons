@@ -1,7 +1,5 @@
-import 'package:dart_fundamentals/01_hello_World/hello_world.dart';
-import 'package:dart_fundamentals/02_Types/types_data.dart';
+import 'package:dart_fundamentals/03_Interpolation/interpolation.dart';
 
 void main() {
-  print(helloWorld());
-  dataTypes();
+  interpolation();
 }

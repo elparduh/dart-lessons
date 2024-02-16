@@ -1,5 +1,5 @@
-import 'package:dart_fundamentals/04_variables_inmutables/inmutables.dart';
+import 'package:dart_fundamentals/05_constants/constants.dart';
 
 void main() {
-  inmutables();
+  constantsData();
 }

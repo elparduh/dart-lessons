@@ -1,5 +1,6 @@
-import 'package:dart_fundamentals/05_constants/constants.dart';
+import 'package:dart_fundamentals/06_functions/functions.dart';
 
 void main() {
-  constantsData();
+  final result = sum(23, 3);
+  print(result);
 }

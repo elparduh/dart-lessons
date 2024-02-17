@@ -1,4 +1,4 @@
-import 'package:dart_fundamentals/05_constants/example.dart';
+import 'package:dart_fundamentals/07_null_safety/example.dart';
 
 void main() {
   example();

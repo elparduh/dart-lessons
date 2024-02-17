@@ -1,4 +1,4 @@
-void inmutables() {
+void example() {
   var price = 1000.0;
   final coupon = 0.05;
   price = price - price * coupon;

@@ -1,4 +1,4 @@
-void interpolation() {
+void example() {
   var name = 'Juan';
   var lastname = 'Ticante';
   var age = 32;

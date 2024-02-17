@@ -1,4 +1,4 @@
-void printMessages(String msg) {
+void example(String msg) {
   print(msg);
 }
 
